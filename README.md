@@ -9,11 +9,12 @@ Din plictiseala :)) Ideea scriptului exista inca din 1 Noiembrie 2022.
 Nu, insa sunteti liberi sa lansati un proiect "REGELE VOSTRU v2" daca cineva doreste.
 # Ce face mai exact scriptul? Pot sa vad o demonstratie?
 https://youtu.be/ujpe7AP5-f4
+
 https://imgur.com/a/fbJ8W54
 # De ce ai publicat scriptul?
-Din dorinta de a ma lasa de SA:MP definitiv si datorita multelor cereri pe care le-am primit, am decis sa las monarhia in mainiile altora :)
-# Functioneaza scriptul?
-Nu stiu. La momentul scrierii (20.02.2023) configuratia predefinita functioneaza in parametrii optimi pe orice frecventa.
+Datorita multelor cereri pe care le-am primit, am decis sa las monarhia in mainiile altora :)
+# Este virus?
+Decompilati script-ul in Sanny Builder 3 si vedeti singuri :)
 # Am voie sa modific scriptul?
 Sigur. Fa ce vrei cu el.
 # Am primit ban permanent pe serverul pe care jucam!
